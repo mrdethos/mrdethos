@@ -3,7 +3,7 @@
 
 - 🐍 I love doing stuff with Python
 - 🌱 Currently learning and working with Django projects
-- 😵‍💫 Planning on filling my GitHub with random crazy projects
+- 😵‍💫 Planning to fill my GitHub with random crazy projects
 - 🧠 Always hungry for knowledge
 
 ## Languages and Tools
